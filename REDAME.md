@@ -11,12 +11,12 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Win32](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=win32&logoColor=white) 
+![Win32](https://img.shields.io/badge/Win32-%2300599C.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![MFC](https://img.shields.io/badge/MFC-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%2333B5E5.svg?style=for-the-badge&logo=qt&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23A0C0E0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![UNIX](https://img.shields.io/badge/UNIX-%23373B3D.svg?style=for-the-badge&logo=linux&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KunalNarkhedePatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
