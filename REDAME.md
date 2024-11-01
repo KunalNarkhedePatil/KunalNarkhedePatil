@@ -11,7 +11,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Win32](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Win32](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=win32&logoColor=white) 
 ![MFC](https://img.shields.io/badge/MFC-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%2333B5E5.svg?style=for-the-badge&logo=qt&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23A0C0E0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
