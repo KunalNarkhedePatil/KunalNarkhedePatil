@@ -17,6 +17,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23A0C0E0.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![UNIX](https://img.shields.io/badge/UNIX-%23373B3D.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KunalNarkhedePatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KunalNarkhedePatil&theme=dark&hide_border=false)<br/>
